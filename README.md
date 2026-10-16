@@ -1,20 +1,55 @@
-# Thiago Moura Inácio
+# 👋 Olá, eu sou o Thiago Moura Inácio!
 
-### Dados e Business Intelligence | Desenvolvimento Web Júnior | Power Apps
+### 📊 Dados e BI | 🧩 Power Apps | 💻 Desenvolvimento Web Júnior
 
-Minha experiência profissional começou nas áreas técnica, de operações e engenharia. Ao longo dessa trajetória, passei a desenvolver soluções digitais para problemas reais do dia a dia: dashboards, aplicações internas e automações que organizam informações, acompanham indicadores e melhoram processos.
+## 🎯 Sobre mim
 
-Trabalho com Power BI, Power Apps e Power Automate. Também desenvolvo projetos web com Next.js, React, TypeScript e PostgreSQL e venho ampliando minha prática em SQL e desenvolvimento back-end.
+📍 Gravataí, RS – Brasil
 
-Estou direcionando minha carreira para oportunidades em **Análise de Dados, Business Intelligence, Power Apps e Desenvolvimento Web Júnior**.
+Minha trajetória profissional foi construída nas áreas técnica, de operações e engenharia, com atuação em automação industrial, processos e segurança de máquinas. Nesse caminho, passei a desenvolver soluções para organizar dados, acompanhar indicadores e melhorar a rotina das equipes.
 
-### Projetos selecionados
+Hoje, desenvolvo **dashboards, aplicações internas e automações**, combinando conhecimento de processos com análise de dados e tecnologia. Também venho ampliando minha atuação em **desenvolvimento web**, criando aplicações e aprendendo na prática.
 
-- **[PB Planner](https://thiagominacio.github.io/projetos/pb-planner.html)** — Aplicação para planejamento de projetos e acompanhamento de etapas, horas e solicitações.
-- **[Análise de Performance Comercial](https://thiagominacio.github.io/projetos/jaar-performance-comercial.html)** — Case de Power BI com indicadores comerciais, modelagem e desafios de análise em DAX.
-- **[Ateliê Financeiro](https://thiagominacio.github.io/projetos/atelie-financeiro.html)** — Aplicação web com Next.js, React, TypeScript e PostgreSQL para organização e conferência financeira em ambiente local.
-- **[Baozi Store API](https://github.com/thiagominacio/baozi-store-api)** — Projeto acadêmico de API REST com Java e Spring Boot.
+Busco oportunidades em **Análise de Dados, Business Intelligence, Power Apps e Desenvolvimento Web Júnior**.
 
-Veja outros projetos e detalhes de cada solução no meu **[portfólio](https://thiagominacio.github.io/)**.
+---
 
-[LinkedIn](https://www.linkedin.com/in/thiagomourainacio/) · [Portfólio](https://thiagominacio.github.io/) · [Contato](mailto:thiagodemoura@hotmail.com)
+## 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas** — UNINTER *(em andamento)*
+
+---
+
+## 🛠️ Ferramentas e tecnologias
+
+- **Dados e BI:** Power BI, DAX, Power Query, Excel e SQL
+- **Aplicações e automação:** Power Apps, Power Automate e SharePoint
+- **Desenvolvimento web:** HTML, CSS, JavaScript, TypeScript, React, Next.js e PostgreSQL
+- **Back-end e desenvolvimento:** Java, Spring Boot, Git e GitHub
+
+---
+
+## 🚀 Projetos em destaque
+
+- 📋 **[PB Planner](https://thiagominacio.github.io/projetos/pb-planner.html)** — Aplicação de planejamento e acompanhamento de projetos.
+- 📊 **[Análise de Performance Comercial — JAAR](https://thiagominacio.github.io/projetos/jaar-performance-comercial.html)** — Case em Power BI com análise comercial, modelagem e medidas DAX.
+- 💻 **[Ateliê Financeiro](https://thiagominacio.github.io/projetos/atelie-financeiro.html)** — Aplicação web com Next.js, React, TypeScript e PostgreSQL para gestão financeira de um salão, executada em ambiente local.
+- ☕ **[Baozi Store API](https://github.com/thiagominacio/baozi-store-api)** — Projeto acadêmico de API REST em Java e Spring Boot para clientes, produtos e pedidos.
+
+Veja os demais projetos e capturas de tela no meu **[portfólio](https://thiagominacio.github.io/)**.
+
+---
+
+## 💡 Habilidades
+
+- Criação de **dashboards e indicadores** para acompanhamento de resultados
+- **Tratamento, organização e visualização de dados**
+- Desenvolvimento de **aplicações internas e fluxos automatizados**
+- Desenvolvimento de **aplicações web** e integração com bancos de dados
+- Levantamento de necessidades e transformação de demandas operacionais em soluções digitais
+
+---
+
+## 📫 Vamos nos conectar?
+
+💼 [LinkedIn](https://www.linkedin.com/in/thiagomourainacio/) · 🌐 [Portfólio](https://thiagominacio.github.io/) · ✉️ [E-mail](mailto:thiagodemoura@hotmail.com)
