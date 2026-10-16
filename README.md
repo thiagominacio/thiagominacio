@@ -32,7 +32,7 @@ Busco oportunidades em **Análise de Dados, Business Intelligence, Power Apps e 
 ## 🚀 Projetos em destaque
 
 - 📋 **[PB Planner](https://thiagominacio.github.io/projetos/pb-planner.html)** — Aplicação de planejamento e acompanhamento de projetos.
-- 📊 **[Análise de Performance Comercial — JAAR](https://thiagominacio.github.io/projetos/jaar-performance-comercial.html)** — Case em Power BI com análise comercial, modelagem e medidas DAX.
+- 📊 **[Análise de Performance Comercial](https://thiagominacio.github.io/projetos/jaar-performance-comercial.html)** — Case em Power BI com análise comercial, modelagem e medidas DAX.
 - 💻 **[Ateliê Financeiro](https://thiagominacio.github.io/projetos/atelie-financeiro.html)** — Aplicação web com Next.js, React, TypeScript e PostgreSQL para gestão financeira de um salão, executada em ambiente local.
 - ☕ **[Baozi Store API](https://github.com/thiagominacio/baozi-store-api)** — Projeto acadêmico de API REST em Java e Spring Boot para clientes, produtos e pedidos.
 
